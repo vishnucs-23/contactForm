@@ -1,0 +1,58 @@
+input{
+    border: none;
+    background-color: rgb(182, 187, 188);
+    padding: 10px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+body{
+    background-image: url(/img/road.jpg);
+    background-repeat: no-repeat;
+     background-size: 100%;
+}
+textarea{
+    background-color: rgb(182, 187, 188);
+    width: 320px;
+    height: 150px;
+    border-radius: 8px;
+}
+.root
+{ 
+margin: 0px 250px;
+border-radius: 0px 8px 8px 0px;
+background-color: white; 
+width:400px;
+ height: 565px;
+float: right;
+ text-align: center;
+}
+.tree
+{
+background-image: url(/img/travel.jpg);
+border-radius: 10px 0px 0px 10px;
+background-repeat: no-repeat;
+background-size: 800px;
+height: 600px;
+margin: 70px 70px 70px 200px;
+
+}
+
+.button{
+    border: none;
+    padding: 2px;
+    width: 300px;
+    height:30px;
+    border-radius: 8px;
+    background-color: rgb(0, 184, 0);
+    
+}
+.button:hover{
+    background-color: rgb(204, 198, 198);
+}
+input:hover{
+    background-color: rgb(163, 156, 156);
+}
+textarea:hover{
+    background-color: rgb(172, 172, 172);
+}
